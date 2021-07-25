@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Client.cpp
+C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\Client\Client.cpp(91,3): warning C4101: obuf: неиспользованная локальная переменная
+C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\Client\Client.cpp(155,17): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\Client\Client.cpp(234,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\Client\Client.cpp(238,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\Client\Client.cpp(242,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\Client\Client.cpp(246,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Client.vcxproj -> C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\Debug\Client.exe

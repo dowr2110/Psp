@@ -1,0 +1,5 @@
+﻿  ServerB.cpp
+C:\Довр\ФИТ\3 КУРС\ПСП\lab5\ServerB\ServerB\ServerB.cpp(152,9): warning C4101: sockServer: неиспользованная локальная переменная
+C:\Довр\ФИТ\3 КУРС\ПСП\lab5\ServerB\ServerB\ServerB.cpp(153,11): warning C4101: server: неиспользованная локальная переменная
+C:\Довр\ФИТ\3 КУРС\ПСП\lab5\ServerB\ServerB\ServerB.cpp(154,11): warning C4101: client: неиспользованная локальная переменная
+  ServerB.vcxproj -> C:\Довр\ФИТ\3 КУРС\ПСП\lab5\ServerB\Debug\ServerB.exe

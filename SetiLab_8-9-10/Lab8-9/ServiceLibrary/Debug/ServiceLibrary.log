@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\ServiceLibrary\Global.h(73,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\ServiceLibrary\Global.h(82,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\ServiceLibrary\RandServer.h(43,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\ServiceLibrary\RandServer.h(45,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\ServiceLibrary\TimeServer.h(40,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ServiceLibrary.cpp
+     Создается библиотека C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\Debug\ServiceLibrary.lib и объект C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\Debug\ServiceLibrary.exp
+  ServiceLibrary.vcxproj -> C:\Довр\ФИТ\3 КУРС\vladanak\Psp-master\Psp-master\SetiLab_8-9-10\Lab8-9\Debug\ServiceLibrary.dll

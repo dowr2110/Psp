@@ -1,0 +1,3 @@
+﻿  clientT.cpp
+d:\фит\3 курс\псп\lab2\clientt\clientt\clientt.cpp(190): warning C4101: ibuf: неиспользованная локальная переменная
+  clientT.vcxproj -> D:\фит\3 КУРС\ПСП\lab2\clientT\Debug\clientT.exe
